@@ -19,5 +19,5 @@ public class OrderType {
     /**
      * 预售订单
      */
-    public static final Integer BOOKING = 4;
+    public static final int BOOKING = 4;
 }
